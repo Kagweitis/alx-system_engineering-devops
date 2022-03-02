@@ -11,3 +11,4 @@ the second file  lists files in the directory
 6-firstdirectory creates adirectory in tmp
 7-movethatfile moves file to tmp/ directory
 8-firstdelete removes betty in the tmp directory
+9-firstdirdeletion removes the directory
