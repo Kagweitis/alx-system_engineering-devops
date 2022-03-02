@@ -15,3 +15,4 @@ the second file  lists files in the directory
 10-back changes directory to one above
 11-lists prints all files in different directories including boot and parent directory
 12-file_type  shows file type
+13-symbolic_link creates a symlink
