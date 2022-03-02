@@ -13,3 +13,4 @@ the second file  lists files in the directory
 8-firstdelete removes betty in the tmp directory
 9-firstdirdeletion removes the directory
 10-back changes directory to one above
+11-lists prints all files in different directories including boot and parent directory
