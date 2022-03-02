@@ -12,3 +12,4 @@ the second file  lists files in the directory
 7-movethatfile moves file to tmp/ directory
 8-firstdelete removes betty in the tmp directory
 9-firstdirdeletion removes the directory
+10-back changes directory to one above
