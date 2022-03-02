@@ -10,3 +10,4 @@ the second file  lists files in the directory
 5-listfilesdigitonly displys directory contents in long format with more details
 6-firstdirectory creates adirectory in tmp
 7-movethatfile moves file to tmp/ directory
+8-firstdelete removes betty in the tmp directory
