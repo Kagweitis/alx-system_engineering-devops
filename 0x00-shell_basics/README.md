@@ -8,3 +8,4 @@ the second file  lists files in the directory
 >>>>>>> 1b3470a609fbe613948abde7b20ed3fd56b49da4
 4-listmorefiles lists even hidden files
 5-listfilesdigitonly displys directory contents in long format with more details
+6-firstdirectory creates adirectory in tmp
