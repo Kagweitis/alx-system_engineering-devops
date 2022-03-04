@@ -12,3 +12,4 @@
 11-directories_permissions allows execution priviledges for sub directories
 12-directory_permissions makes directory with 751 permissions
 13-change_group changes group owner to school for hello
+100-change_owner_and_group changes owner of vincet to staff
