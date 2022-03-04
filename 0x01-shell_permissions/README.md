@@ -5,3 +5,4 @@
 4-empt creates an empty file called hello
 5-execut enables execution priviledges to hello
 6-multiple_permissions changes various permissions
+7-everybody gives everyone execution permissions
