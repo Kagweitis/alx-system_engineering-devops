@@ -7,3 +7,4 @@
 6-multiple_permissions changes various permissions
 7-everybody gives everyone execution permissions
 8-James_Bond changes permissions to 007 james bond style
+9-John_Doe changes mode to 753 
