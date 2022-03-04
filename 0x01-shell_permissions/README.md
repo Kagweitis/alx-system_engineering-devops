@@ -9,3 +9,4 @@
 8-James_Bond changes permissions to 007 james bond style
 9-John_Doe changes mode to 753 
 10-mirror_permissions changes permissions based on oleh
+11-directories_permissions allows execution priviledges for sub directories
