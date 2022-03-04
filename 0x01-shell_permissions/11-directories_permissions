@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod u+X*
+#!/bin/bash
+chmod a+X *
