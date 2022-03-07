@@ -7,3 +7,4 @@
 6-third_line prints the first three lines of iacta
 7-file prints a bizarre line of code as you will see
 8-cwd_stat save current state of directory
+9-duplicate_last_line duplicates last line of iata
