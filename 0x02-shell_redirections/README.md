@@ -11,3 +11,4 @@
 10-no_more_js deletes js files
 12-newest_files displays 10 newest files
 13-unique prints wordds that occur only once
+14-findthatword Display lines containing the pattern “root” from the file /etc/passwd
