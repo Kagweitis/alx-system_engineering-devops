@@ -10,3 +10,4 @@
 9-duplicate_last_line duplicates last line of iata
 10-no_more_js deletes js files
 12-newest_files displays 10 newest files
+13-unique prints wordds that occur only once
