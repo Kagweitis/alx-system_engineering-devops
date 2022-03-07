@@ -1,2 +1,2 @@
 #!/bin/bash
-13-unique prints wordds that occur only once
+sort | uniq -u
