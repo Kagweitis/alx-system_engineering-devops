@@ -1,3 +1,2 @@
 #!/bin/bash
-find -empty | rev | cut -d/ -f1 | rev
-100-empty_casks command that finds all empty files and directories in the current directory and all sub-directories
+find . -empty -printf "%f\n"
