@@ -1,1 +1,3 @@
-this repo contains various shell scripts
+ALX software Engineering program 
+
+This repo contains various shell scripts
